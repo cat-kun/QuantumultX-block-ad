@@ -17,4 +17,4 @@
 
 #### 如果用了重写某个app去广告无效的，删除该软件再重装
 
-#### 如有其他app去不了开屏广告的，欢迎补充 提 [Issues](https://github.com/cat-kun/QuantumultX-block-ad/issues/new)
+#### 如有其他app去不了开屏广告的，欢迎补充 👉提 [Issues](https://github.com/cat-kun/QuantumultX-block-ad/issues/new)
