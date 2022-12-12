@@ -16,3 +16,5 @@
 - 长按`重写规则` - 右上角➕ - 资源路径填入对应conf链接，资源标签填入名字（方便识别，可不填），打开资源解析器 - 右上角点✅ [图文版](https://github.com/cat-kun/QuantumultX-block-ad/blob/master/README_IMG.md)
 
 #### 如果用了重写去广告无效的，删除软件再重装
+
+#### 如有其他app去不了开屏广告的，可以提 [Issues](https://github.com/cat-kun/QuantumultX-block-ad/issues/new)
