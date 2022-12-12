@@ -1,4 +1,4 @@
-# 圈X去广告（此仓库只做补充）
+# IOS圈X去广告（此仓库只做补充）
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cat-kun.QuantumultX-block-ad) 
 [![Stars](https://img.shields.io/github/stars/cat-kun/QuantumultX-block-ad)](https://github.com/cat-kun/QuantumultX-block-ad/stargazers)
