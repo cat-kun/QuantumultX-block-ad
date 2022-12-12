@@ -13,6 +13,6 @@
 - [好型app](https://raw.githubusercontent.com/cat-kun/QuantumultX-block-ad/master/haoxing.conf)
 
 ### 使用方法、
-- 长按`重写规则` - 右上角➕ - 资源路径填入对应conf链接，资源标签填入名字（方便识别，可不填），打开资源解析器 - 右上角点✅
+- 长按`重写规则` - 右上角➕ - 资源路径填入对应conf链接，资源标签填入名字（方便识别，可不填），打开资源解析器 - 右上角点✅ [图文版](https://github.com/cat-kun/QuantumultX-block-ad/blob/master/README_IMG.md)
 
 #### 如果用了重写去广告无效的，删除软件再重装
