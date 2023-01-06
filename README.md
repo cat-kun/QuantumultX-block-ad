@@ -10,7 +10,17 @@
 - 默认用的[ddgksf2013](https://github.com/ddgksf2013/ddgksf2013)大佬的圈x懒人配置，里面包含了很多开屏去广告
 ## 补充了一些app开屏去广告
 
-- [好型app](https://raw.githubusercontent.com/cat-kun/QuantumultX-block-ad/master/haoxing.conf)
+- 好型app
+
+```bash
+https://raw.githubusercontent.com/cat-kun/QuantumultX-block-ad/master/haoxing.conf
+```
+
+- 12306
+
+```
+https://raw.githubusercontent.com/cat-kun/QuantumultX-block-ad/master/12306.conf
+```
 
 ### 使用方法
 - 长按`重写规则` - 右上角➕ - 资源路径填入对应conf链接，资源标签填入名字（方便识别，可不填），打开资源解析器 - 右上角点✅ [图文版](https://github.com/cat-kun/QuantumultX-block-ad/blob/master/README_IMG.md)
